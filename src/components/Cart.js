@@ -113,5 +113,5 @@ export default connect(
     (state) => ({
         cartItems: state.cart.cartItems
     }),
-    removeFromCart
+    {removeFromCart}
 )(Cart);
