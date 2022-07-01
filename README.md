@@ -1,6 +1,6 @@
 # React Shopping Cart | Tutorial by Coding with Basir on Youtube
 Title : React & Redux Tutorial - Full Shopping Cart in 4 Hours 2022\
-Link : https://www.youtube.com/watch?v=nKyrXWH5XLM \
+Link : https://www.youtube.com/watch?v=nKyrXWH5XLM
 
 # Shortcut how to use this code
 1. Maybe this program need react-script and other component in below
@@ -29,6 +29,6 @@ redux : npm install redux react-redux redux-thunk
 
 # Link maybe you need for this lesson from Basir :
 - on server.js when connecting to mongodb : \
-https://www.mongodb.com/community/forums/t/option-usecreateindex-is-not-supported/123048 \
+https://www.mongodb.com/community/forums/t/option-usecreateindex-is-not-supported/123048
 
 # Thanks
